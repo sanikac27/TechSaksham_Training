@@ -1,5 +1,5 @@
 # Day 1 - Linux Basics  
-📅 **Date:** Tue 11/2  
+📅 **Date:** Tue 11/02/2025  
 
 ## 🔹 Introduction to Linux
 Linux is an open-source, Unix-like operating system that powers a vast number of devices, from servers to mobile phones. It is known for its stability, security, and flexibility. Unlike Windows or macOS, Linux gives users full control over system customization.
