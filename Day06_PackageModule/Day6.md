@@ -129,5 +129,5 @@ with open("example.txt", "r") as file:
 ✅ Third-party packages can be installed using pip.
 ✅ Python provides simple functions for file handling operations.
 
-🔗 Keep Learning & Keep Coding! 🚀
+🔗 Keep Learning & Keep Coding! 🚀 
 
